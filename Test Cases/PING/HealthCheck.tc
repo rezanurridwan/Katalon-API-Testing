@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A simple health check endpoint to confirm whether the API is up and running.</description>
+   <name>HealthCheck</name>
+   <tag>BOOKING</tag>
+   <comment></comment>
+   <testCaseGuid>dbb6a7ce-f451-46b8-a4ac-fb67db6f44b3</testCaseGuid>
+</TestCaseEntity>
