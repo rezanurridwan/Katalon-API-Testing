@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creates a new booking in the API</description>
+   <name>CreateBooking</name>
+   <tag>BOOKING</tag>
+   <comment></comment>
+   <testCaseGuid>351f65f0-93ab-465d-b66c-f0ace335b629</testCaseGuid>
+</TestCaseEntity>
