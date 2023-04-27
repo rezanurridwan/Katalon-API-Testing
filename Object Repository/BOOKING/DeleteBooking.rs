@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
-   <description>Updates a current booking with a partial payload</description>
-   <name>PartialUpdateBooking</name>
+   <description>Returns the ids of all the bookings that exist within the API. Can take optional query strings to search and return a subset of booking ids.</description>
+   <name>DeleteBooking</name>
    <tag></tag>
-   <elementGuidId>53200679-53d5-4e61-8c4b-d1446bbb6fa3</elementGuidId>
+   <elementGuidId>7f8f1ca9-3a82-4232-9287-b32ec1b2f2e7</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
-   <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;firstname\&quot; : \&quot;Ali\&quot;,\n    \&quot;lastname\&quot; : \&quot;Mukhtar\&quot;\n}&quot;,
-  &quot;contentType&quot;: &quot;application/json&quot;,
-  &quot;charset&quot;: &quot;UTF-8&quot;
-}</httpBodyContent>
-   <httpBodyType>text</httpBodyType>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
-      <webElementGuid>1ca8d647-7c4d-4b4f-8340-b82ed165e5ff</webElementGuid>
-   </httpHeaderProperties>
-   <httpHeaderProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>Accept</name>
-      <type>Main</type>
-      <value>application/json</value>
-      <webElementGuid>197cffc4-7975-4977-b499-fdf10b628249</webElementGuid>
+      <webElementGuid>a357acb2-f747-470e-be63-755ea4612f1d</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -37,7 +25,7 @@
       <name>Cookie</name>
       <type>Main</type>
       <value>token=abc123</value>
-      <webElementGuid>02e555bb-0cda-4403-a466-c4ff503783c6</webElementGuid>
+      <webElementGuid>6c460cb1-160a-49ec-91a6-3fd2a0085c9d</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -45,13 +33,13 @@
       <name>Authorization</name>
       <type>Main</type>
       <value>Basic YWRtaW46cGFzc3dvcmQxMjM=</value>
-      <webElementGuid>90f77d4e-853a-4adb-93cd-a8cb7eca8b00</webElementGuid>
+      <webElementGuid>0dc1b7ce-1be1-44b1-8576-fb67c6eb119f</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.5.5</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
-   <restRequestMethod>PATCH</restRequestMethod>
-   <restUrl>https://restful-booker.herokuapp.com/booking/2</restUrl>
+   <restRequestMethod>DELETE</restRequestMethod>
+   <restUrl>https://restful-booker.herokuapp.com/booking/1</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
