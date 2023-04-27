@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Updates a current booking with a partial payload</description>
+   <name>PartialUpdateBooking</name>
+   <tag>BOOKING</tag>
+   <comment></comment>
+   <testCaseGuid>b7d69c33-dc92-4b6d-bea4-fdec1b5c3a85</testCaseGuid>
+</TestCaseEntity>
