@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Ping,,A simple health check endpoint to confirm whether the API is up and running.,,2023-04-27 14:42:42,2023-04-27 14:42:49,7.435s,PASSED
+,,,,,,,
+Test Cases/PING/HealthCheck,,A simple health check endpoint to confirm whether the API is up and running.,BOOKING,2023-04-27 14:42:43,2023-04-27 14:42:49,6.325s,PASSED
+"sendRequest(findTestObject(""PING/HealthCheck""))",,,,2023-04-27 14:42:44,2023-04-27 14:42:49,5.225s,PASSED
