@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Auth,,Creates a new auth token to use for access to the PUT and DELETE /booking,,2023-04-28 14:03:43,2023-04-28 14:03:53,10.465s,PASSED
+,,,,,,,
+Test Cases/AUTH/Create Token,,Creates a new auth token,AUTH,2023-04-28 14:03:43,2023-04-28 14:03:53,9.925s,PASSED
+"sendRequest(findTestObject(""AUTH/Auth - CreateToken""))",,,,2023-04-28 14:03:45,2023-04-28 14:03:53,8.669s,PASSED
