@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UpdateBooking - first, last and total price null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f623989-b6dc-4614-8824-66436676496c</testCaseGuid>
+</TestCaseEntity>
