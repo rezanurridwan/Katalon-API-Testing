@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input password null</description>
+   <name>Create Token - username null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1898a530-47c2-411d-8167-b91561fdb657</testCaseGuid>
+</TestCaseEntity>

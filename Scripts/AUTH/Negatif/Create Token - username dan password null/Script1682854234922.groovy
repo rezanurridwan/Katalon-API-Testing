@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WS.sendRequest(findTestObject('AUTH/Auth - CreateToken'))
+WS.sendRequest(findTestObject('AUTH/Negatif/Auth - CreateToken - username dan password null'))
 
