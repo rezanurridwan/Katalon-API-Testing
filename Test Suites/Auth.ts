@@ -15,7 +15,7 @@
       <guid>acc569b4-f131-4c0b-a592-213cc8b7dd87</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AUTH/Create Token</testCaseId>
+      <testCaseId>Test Cases/AUTH/Positif/Create Token</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
